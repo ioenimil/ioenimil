@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isaac Obo Enimil</h1>
+<p>- </p>
 <h3 align="center">I am a passionate machine learning and tech enthusiast young guy from Ghana</h3>
 
 - 🌱 I’m currently learning **Maching Learning, AI, Networking, Cloud Computing, MySQL**
