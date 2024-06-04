@@ -2,7 +2,7 @@
 <p>- </p>
 <h3 align="center">A passionate machine learning and tech enthusiast young guy from Ghana</h3>
 
-- 🌱 I’m currently learning **Maching Learning, AI, Networking, Cloud Computing, MySQL**
+- 🌱 I’m currently learning **Maching Learning, AI, Networking, Cloud Computing, Software Engineering (Tauri)**
 
 - 💬 Ask me about **Machine Learning, Python, Pandas, SciKit-Learn**
 
